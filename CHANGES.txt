@@ -1,3 +1,4 @@
+ * Fix support for C* Tuples in Dataframes (SPARKC-357)
  * Nested Optional Case Class can be save as UDT (SPARKC-346)
  * Merged Java API into main module (SPARKC-335)
  * Upgraded to Spark 1.6.1 (SPARKC-344)
